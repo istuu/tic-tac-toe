@@ -14,7 +14,6 @@ A. Clone the project
 ```sh
     git clone https://github.com/istuu/tic-tac-toe
 
-
 ```
 
 B. Run Composer Install / Update
