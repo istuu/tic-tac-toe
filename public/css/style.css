@@ -1,0 +1,24 @@
+
+
+.square {
+    background-color:#40407a;
+    height: 110px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+span {
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
+.playAgain {
+    margin: 0 0 20px;
+}
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+}
+.footer {
+    background-color: #f5f5f5;
+}
